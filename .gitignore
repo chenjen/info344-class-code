@@ -1,5 +1,8 @@
 node_modules
 .idea
+<<<<<<< HEAD
+.DS_Store
+=======
 .DS_Store
 
 # ignore all files in any directory named `secret`
@@ -8,3 +11,4 @@ node_modules
 # except files ending in `.template` or `.md`
 !**/secret/*.template
 !**/secret/*.md
+>>>>>>> drstearns/master
